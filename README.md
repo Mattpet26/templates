@@ -3,10 +3,10 @@ Here is a great resource I cloned from John Cokos. Templates for each assignment
 
 [Code Challenges](CodeChallenge.md)
 
-[Console-app]
+[Console-app](ConsoleApp.md)
 
-[DSA]
+[DSA](DSA.md)
 
-[Labs]
+[Labs](Labs.md)
 
-[Projects]
+[Projects](Projects.md)
